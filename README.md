@@ -1,8 +1,8 @@
 # BASIC Language Interpreter
 
-This was a project for my Data Structures and Object Oriented Design class @ USC
+This was a project for USC's CSCI 104: Data Structures and Object Oriented Design. The program produced is a fully functional interpreter for the programming language BASIC. It is capable of taking in any number of lines of BASIC commands and carry out the operations listed, including storing variables and navigating to various lines in the code. 
 
-This program can run complex commands written in BASIC and store variables, acting as a fully functioning interpreter.
+## Built With
 
-It can also detect errors written in BASIC commands and will report those to the user with a descriptive error message as such:
-![Faulty BASIC Example](https://github.com/abbasrzaidi/BASIC-Language-Interpreter/blob/master/images/faultyBASIC.PNG)
+* C++
+* [BASIC Reference Guide](https://media.salford-systems.com/pdf/spm7/BasicProgLang.pdf)
